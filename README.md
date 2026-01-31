@@ -12,7 +12,7 @@ O **Clawdbot Skill Master Pack** é a coleção definitiva de habilidades para o
 Para quem já tem o ClawHub instalado, você pode baixar este pack inteiro clonando este repositório diretamente na sua pasta de trabalho:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/clawdbot-skill-master-pack.git
+git clone https://github.com/danstrem2/clawdbot-skill-master-pack.git
 ```
 
 Ou, se preferir baixar skills individualmente usando o ClawHub:
